@@ -29,7 +29,7 @@ VALID_DDDS = {
 # 1. LOCAIS
 # =============================================================================
 LOCAL_OPTIONS = [
-    {"id": "1", "nome": "N\u00daCLEO PENHA (PROGRAMA JOS\u00daBE ARANHA)"},
+    {"id": "1", "nome": "N\u00daCLEO PENHA (PROGRAMA JOS\u00daE ARANHA)"},
 ]
 
 # =============================================================================
