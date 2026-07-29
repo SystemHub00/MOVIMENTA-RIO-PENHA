@@ -58,7 +58,7 @@ TURMA_OPTIONS = [
         "turma_codigo": "MLR-PNH-01",
         "turma_label": "Ter/Qui \u2014 8h \u00e0s 10h (in\u00edcio 28/07) \u2014 N\u00facleopenha",
         "dias_aula": "Ter\u00e7a e Quinta", "horario": "8h \u00e0s 10h",
-        "data_inicio": "28/07/2026", "encerramento": "27/08/2026",
+        "data_inicio": "29/07/2026", "encerramento": "27/08/2026",
         "endereco_id": "1",
     },
     {
@@ -66,7 +66,7 @@ TURMA_OPTIONS = [
         "turma_codigo": "ESG-PNH-01",
         "turma_label": "Ter/Qui \u2014 10h \u00e0s 12h (in\u00edcio 28/07) \u2014 N\u00facleopenha",
         "dias_aula": "Ter\u00e7a e Quinta", "horario": "10h \u00e0s 12h",
-        "data_inicio": "28/07/2026", "encerramento": "27/08/2026",
+        "data_inicio": "29/07/2026", "encerramento": "27/08/2026",
         "endereco_id": "1",
     },
     {
@@ -74,7 +74,7 @@ TURMA_OPTIONS = [
         "turma_codigo": "ADM-PNH-01",
         "turma_label": "Ter/Qui \u2014 18h30 \u00e0s 20h30 (in\u00edcio 28/07) \u2014 N\u00facleopenha",
         "dias_aula": "Ter\u00e7a e Quinta", "horario": "18h30 \u00e0s 20h30",
-        "data_inicio": "28/07/2026", "encerramento": "27/08/2026",
+        "data_inicio": "29/07/2026", "encerramento": "27/08/2026",
         "endereco_id": "1",
     },
     {
@@ -82,7 +82,7 @@ TURMA_OPTIONS = [
         "turma_codigo": "ALG-PNH-01",
         "turma_label": "Ter/Qua \u2014 18h30 \u00e0s 20h30 (in\u00edcio 28/07) \u2014 N\u00facleopenha",
         "dias_aula": "Ter\u00e7a e Quarta", "horario": "18h30 \u00e0s 20h30",
-        "data_inicio": "28/07/2026", "encerramento": "26/08/2026",
+        "data_inicio": "29/07/2026", "encerramento": "26/08/2026",
         "endereco_id": "1",
     },
 ]
